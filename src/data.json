@@ -1,17 +1,17 @@
 [{
     "id" : 1,
-    "task": "ir de comprars",
+    "task": "comprar mercado",
     "completed" : false
 },{
     "id": 2,
-    "task": "lavar carro",
-    "completed" : false
+    "task": "lavar la moto",
+    "completed" : true
 },{
     "id" : 3,
-    "task" : "cocinar",
+    "task" : "hacer la comida",
     "completed" : true
 },{
     "id": 4,
-    "task": "lavar la ropa",
+    "task": "doblar la ropa",
     "completed" : false
 }]

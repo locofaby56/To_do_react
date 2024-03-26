@@ -6,8 +6,10 @@ import { Button } from 'react-bootstrap';
   const getStyle=()=>{
     return{
       textDecoration: todo.completed ? 'line-through': 'none',
-      margin:'20px',
+      padding: '5px',
+      margin:'10px',
       border:'1px solid #ffffff',
+      borderRadius:'5px',
       backgroundColor: '#CCF7E3'
     }
   }
